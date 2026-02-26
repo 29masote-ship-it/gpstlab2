@@ -1,0 +1,33 @@
+body {
+	background-color: white;
+	color: #666666;
+	}	
+	
+header {
+	background-color: #00B386;
+	color: white;
+	}
+	
+nav{
+	background-color: #70dbdb;
+	}
+	
+h2{
+	color: #00664D;
+	}
+	
+dt {
+	color: #00664D;
+	}
+	
+.barn {
+	color: #70DBDB 
+	}
+	
+#contact{
+	
+	}
+	
+h1 {
+	margin-bottom:0;
+	}
